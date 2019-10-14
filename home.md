@@ -4,7 +4,7 @@
 <!-- TITLE: Tutorial-->
 
 # Configurar seu Wiki com wiki.js
-*Salve garera! *
+*Salve garera!*
 
 Precisava de uma **Wiki** para a empresa que trabalho, na verdade pretendemos usar uma **Wiki** para documentação de algumas tarefas que temos como *RDM*, *DataSource*, *Tutoriais* e *outras coisas*.
 

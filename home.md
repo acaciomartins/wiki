@@ -26,7 +26,7 @@ Para você ter uma idéia, eu criei essa Wiki em menos de 10 minutos, tudo em Cl
 
 **Mão à obra!**
 
-# A configuração e deploy foram feitos no Heroky 
+## **A configuração e deploy foram feitos no Heroky **
 
 
 1º - Criar uma conta no Heroky para deploy de sua aplicação.

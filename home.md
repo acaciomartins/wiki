@@ -1,6 +1,7 @@
 <!-- TITLE: Home -->
 <!-- SUBTITLE: A quick summary of Home -->
 
+TITLE: Tutorial
 # Configurar seu Wiki com wiki.js
 *Salve garera! *
 

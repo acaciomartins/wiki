@@ -29,7 +29,7 @@ Para você ter uma idéia, eu criei essa Wiki em menos de 10 minutos, tudo em Cl
 
 **Mão à obra!**
 
-## A configuração e deploy foram feitos no Heroky - Motivação: Aprender novas tecnologias
+## A configuração e deploy foram feitos no Heroku - Motivação: Aprender novas tecnologias
 
 ** Você vai precisar: **
 

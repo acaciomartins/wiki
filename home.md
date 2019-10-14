@@ -28,7 +28,23 @@ Para você ter uma idéia, eu criei essa Wiki em menos de 10 minutos, tudo em Cl
 
 ## A configuração e deploy foram feitos no Heroky - Motivação: Aprender novas tecnologias
 
-
+** Você vai precisar: **
 
 1º - Criar uma conta no Heroky para deploy de sua aplicação.
-2º - 
+2º - Ter um repositorio GitHub criado.
+3º - Mais nada.
+
+**Heroku**
+Criar uma conta o  é fácil e rápido. Segue o link para cadastro: https://id.heroku.com/login
+
+**GitHub**
+Se já não tem, o que acho difícil de acontecer, mas....se ainda não tem segue o link para cadastro: https://github.com/ 
+
+**Configuração e Instação**
+
+1º - Acesse o repositório https://github.com/Requarks/wiki-v1
+2º - Procure pelo botão 
+![Wiki 01](/uploads/wiki-js/wiki-01.png "Wiki 01"){.align-center}
+º
+º
+º

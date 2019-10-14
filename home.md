@@ -23,6 +23,7 @@ Para você ter uma idéia, eu criei essa Wiki em menos de 10 minutos, tudo em Cl
 * Open source
 * Poder gerenciar permissões de usuários e artigos
 * Possuir um sistema de busca
+* O repositório fica em Git, seja GitHub, GitLab e BitBucket
 
 **Mão à obra!**
 
@@ -30,22 +31,27 @@ Para você ter uma idéia, eu criei essa Wiki em menos de 10 minutos, tudo em Cl
 
 ** Você vai precisar: **
 
-1º - Criar uma conta no Heroky para deploy de sua aplicação.
+1º - Criar uma conta no Heroku para deploy de sua aplicação.
 2º - Ter um repositorio GitHub criado.
-3º - Mais nada.
+3º - Preencher um formulário no Heroku.
 
 **Heroku**
+
 Criar uma conta o  é fácil e rápido. Segue o link para cadastro: https://id.heroku.com/login
 
+
 **GitHub**
+
 Se já não tem, o que acho difícil de acontecer, mas....se ainda não tem segue o link para cadastro: https://github.com/ 
+
 
 **Configuração e Instação**
 
 1º - Acesse o repositório https://github.com/Requarks/wiki-v1
+
 2º - Procure pelo botão **Deploy to Heroku**.
 
-![Wiki 01](/uploads/wiki-js/wiki-01.png "Wiki 01"){.align-center}
+![Wiki 02](/uploads/wiki-js/wiki-02.png "Wiki 02")
 
 Ou se preferir o link até o momento é esse: https://heroku.com/deploy?template=https://github.com/requarks/wiki-heroku
 

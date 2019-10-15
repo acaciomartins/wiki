@@ -6,11 +6,13 @@
 # Configurar seu Wiki com wiki.js
 *Salve garera!*
 
-Precisava de uma **Wiki** para a empresa que trabalho, na verdade pretendemos usar uma **Wiki** para documentação de algumas tarefas que temos como *RDM*, *DataSource*, *Tutoriais* e *outras coisas*.
+Precisavamos de uma **Wiki**, na verdade pretendemos usar uma *Wiki* para documentação de algumas tarefas que temos como *RDM*, *DataSource*, *Tutoriais* e *outras coisas*.
 
 Sem delongas, acabei encontrando o **Wiki.js**, uma plataforma wiki, sensacional e com as melhores tecnologias!
 
-Para você ter uma idéia, eu criei essa Wiki em menos de 10 minutos, tudo em Cloud.
+O bacana é que todo o conteúdo fica armazenado em seu repositório git.
+
+Para você ter uma ideia, eu criei essa Wiki em menos de 10 minutos, tudo em Cloud.
 
 **Tecnologias empregadas**
 
